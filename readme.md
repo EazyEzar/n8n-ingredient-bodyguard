@@ -6,7 +6,7 @@
 
 Turn your Telegram bot into an intelligent food safety scanner. This workflow analyzes photos of ingredient labels sent via Telegram, extracts the text using AI, and cross-references it against your personal database of "Good" and "Bad" ingredients in Airtable.
 
-<img src="assets/telegram_demo.jpg" width="300" alt="Telegram Bot Demo">
+<img src="assets/telegram_demo.png" width="300" alt="Telegram Bot Demo">
 
 It solves the problem of manually reading tiny, complex labels for allergies or dietary restrictions. Whether you are Vegan, Halal, allergic to nuts, or just avoiding specific additives, this workflow acts as a strict, personalized bodyguard for your diet. It even features a customizable "Persona" (like a Sarcastic Bodyguard) to make safety checks fun.
 
@@ -85,3 +85,4 @@ The AI prompt in the "AI Agent" node is set to strict "Veto" mode (Bad overrides
 
 
 [**Check out my other workflows on n8n**](https://n8n.io/creators/ehsan-z/)
+
