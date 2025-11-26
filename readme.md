@@ -4,6 +4,8 @@
 
 [![Created by Ehsan Z](https://img.shields.io/badge/Created%20by-Ehsan%20Z-FF6B6B?style=for-the-badge)](https://n8n.io/creators/ehsan-z/)
 
+⚡ **[Get the Workflow Template](https://n8n.io/workflows/10866)**
+
 Turn your Telegram bot into an intelligent food safety scanner. This workflow analyzes photos of ingredient labels sent via Telegram, extracts the text using AI, and cross-references it against your personal database of "Good" and "Bad" ingredients in Airtable.
 
 <img src="assets/telegram_demo.png" width="300" alt="Telegram Bot Demo">
@@ -34,7 +36,7 @@ It solves the problem of manually reading tiny, complex labels for allergies or 
 This workflow relies on a specific Airtable structure to function as the "Brain."
 
 ### 1. Set up Airtable
-* Sign up for Airtable: [**Click here**](https://airtable.com/invite/r/Isr7G94S)
+* 📊 **[Sign up for Airtable](https://airtable.com/invite/r/Isr7G94S)**
 * **Copy the required Base:** [**Click here to copy the "Ingredients Brain" base**](https://airtable.com/appwuO8h6qLVULY20/shrYVCqWgPtFDPz0q)
 * Connect Airtable to n8n (5-min guide): [**Watch Tutorial**](https://www.youtube.com/watch?v=xFFfkBeI2rQ)
 
@@ -48,8 +50,8 @@ This workflow relies on a specific Airtable structure to function as the "Brain.
 
 ## 📋 Requirements
 
-* **n8n** (Cloud or Self-hosted) - [**Get n8n here**](https://n8n.partnerlinks.io/spkrs32edelt)
-* **Airtable** account (Free tier works)
+* 🚀 **n8n** (Cloud or Self-hosted) - **[Get Started with n8n](https://n8n.partnerlinks.io/spkrs32edelt)**
+* 📊 **Airtable** account (Free tier works) - **[Sign up for Airtable](https://airtable.com/invite/r/Isr7G94S)**
 * **Telegram** account
 * **Google Gemini** API Key
 * **Local LLM** (Optional, for free OCR) OR **OpenAI/Gemini** Key (for standard Cloud Vision)
