@@ -4,7 +4,7 @@
 
 [![Created by Ehsan Z](https://img.shields.io/badge/Created%20by-Ehsan%20Z-FF6B6B?style=for-the-badge)](https://n8n.io/creators/ehsan-z/)
 
-⚡ **[Get the Workflow Template](https://n8n.io/workflows/10866)**
+⚡ **[Get the Workflow Template](https://n8n.io/workflows/11159)**
 
 Turn your Telegram bot into an intelligent food safety scanner. This workflow analyzes photos of ingredient labels sent via Telegram, extracts the text using AI, and cross-references it against your personal database of "Good" and "Bad" ingredients in Airtable.
 
